@@ -7,3 +7,27 @@
 [submodule "frida-ios-dump"]
 	path = frida-ios-dump
 	url = https://github.com/AloneMonkey/frida-ios-dump
+[submodule "frinfo"]
+	path = frinfo
+	url = https://github.com/ansjdnakjdnajkd/frinfo
+[submodule "mobile-re"]
+	path = mobile-re
+	url = https://github.com/QKaiser/mobile-re
+[submodule "ssl-kill-switch2"]
+	path = ssl-kill-switch2
+	url = https://github.com/nabla-c0d3/ssl-kill-switch2
+[submodule "IPAPatch"]
+	path = IPAPatch
+	url = https://github.com/Naituw/IPAPatch
+[submodule "hookgrip"]
+	path = hookgrip
+	url = https://github.com/agustingianni/hookgrip
+[submodule "house"]
+	path = house
+	url = https://github.com/nccgroup/house
+[submodule "AppleSimulatorUtils"]
+	path = AppleSimulatorUtils
+	url = https://github.com/wix/AppleSimulatorUtils
+[submodule "MonkeyDev"]
+	path = MonkeyDev
+	url = https://github.com/AloneMonkey/MonkeyDev

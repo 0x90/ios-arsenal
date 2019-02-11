@@ -1,0 +1,9 @@
+[submodule "woza"]
+	path = woza
+	url = https://github.com/woza-lab/woza
+[submodule "woza-desktop"]
+	path = woza-desktop
+	url = https://github.com/woza-lab/woza-desktop
+[submodule "frida-ios-dump"]
+	path = frida-ios-dump
+	url = https://github.com/AloneMonkey/frida-ios-dump

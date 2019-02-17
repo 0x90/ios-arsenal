@@ -31,3 +31,6 @@
 [submodule "MonkeyDev"]
 	path = MonkeyDev
 	url = https://github.com/AloneMonkey/MonkeyDev
+[submodule "iOS-sbutils"]
+	path = iOS-sbutils
+	url = https://github.com/bored-engineer/iOS-sbutils

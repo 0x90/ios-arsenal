@@ -205,3 +205,30 @@
 [submodule "mdm-inhibitor"]
 	path = mdm-inhibitor
 	url = git@github.com:francescomasala/mdm-inhibitor.git
+[submodule "mkcert"]
+	path = mkcert
+	url = https://github.com/FiloSottile/mkcert
+[submodule "twackup-rs"]
+	path = twackup-rs
+	url = git@github.com:danpashin/twackup-rs.git
+[submodule "iOS_sysdiagnose_forensic_scripts"]
+	path = iOS_sysdiagnose_forensic_scripts
+	url = git@github.com:cheeky4n6monkey/iOS_sysdiagnose_forensic_scripts.git
+[submodule "APOLLO"]
+	path = APOLLO
+	url = git@github.com:mac4n6/APOLLO.git
+[submodule "iOS-Mobile-Installation-Logs-Parser"]
+	path = iOS-Mobile-Installation-Logs-Parser
+	url = git@github.com:abrignoni/iOS-Mobile-Installation-Logs-Parser.git
+[submodule "icloud-12.5.1-bypass"]
+	path = icloud-12.5.1-bypass
+	url = git@github.com:adrianjagielak/icloud-12.5.1-bypass.git
+[submodule "Checkra1n-and-odysseyra1n-easy-installer"]
+	path = Checkra1n-and-odysseyra1n-easy-installer
+	url = git@github.com:jroemer551/Checkra1n-and-odysseyra1n-easy-installer.git
+[submodule "c0verup"]
+	path = c0verup
+	url = git@github.com:shadow1Python/c0verup.git
+[submodule "NetworkSniffer"]
+	path = NetworkSniffer
+	url = git@github.com:evilpenguin/NetworkSniffer.git

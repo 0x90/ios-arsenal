@@ -232,3 +232,6 @@
 [submodule "NetworkSniffer"]
 	path = NetworkSniffer
 	url = git@github.com:evilpenguin/NetworkSniffer.git
+[submodule "ios-analysis"]
+	path = ios-analysis
+	url = https://github.com/IAIK/ios-analysis

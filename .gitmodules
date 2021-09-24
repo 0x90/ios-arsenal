@@ -34,3 +34,174 @@
 [submodule "ipatool"]
 	path = ipatool
 	url = https://github.com/majd/ipatool
+[submodule "ipa-dumper"]
+	path = ipa-dumper
+	url = git@github.com:marzzzello/ipa-dumper.git
+[submodule "Manticore"]
+	path = Manticore
+	url = git@github.com:ProjectManticore/Manticore.git
+[submodule "cicuta_virosa"]
+	path = cicuta_virosa
+	url = https://github.com/ModernPwner/cicuta_virosa.git
+[submodule "SSLBypass"]
+	path = SSLBypass
+	url = git@github.com:evilpenguin/SSLBypass.git
+[submodule "ThatWebInspector"]
+	path = ThatWebInspector
+	url = git@github.com:evilpenguin/ThatWebInspector.git
+[submodule "frida-ios-hook"]
+	path = frida-ios-hook
+	url = git@github.com:noobpk/frida-ios-hook.git
+[submodule "grapefruit"]
+	path = grapefruit
+	url = https://github.com/ChiChou/grapefruit.git
+[submodule "motan"]
+	path = motan
+	url = git@github.com:Dado1513/motan.git
+[submodule "iOS-SandBox-Dumper"]
+	path = iOS-SandBox-Dumper
+	url = git@github.com:dineshshetty/iOS-SandBox-Dumper.git
+[submodule "passionfruit"]
+	path = passionfruit
+	url = git@github.com:chaitin/passionfruit.git
+[submodule "ipa-extract-info"]
+	path = ipa-extract-info
+	url = git@github.com:nowsecure/ipa-extract-info.git
+[submodule "objection"]
+	path = objection
+	url = git@github.com:sensepost/objection.git
+[submodule "iostrace"]
+	path = iostrace
+	url = git@github.com:sh1ma/iostrace.git
+[submodule "ios_debugger_challenge"]
+	path = ios_debugger_challenge
+	url = git@github.com:rustymagnet3000/ios_debugger_challenge.git
+[submodule "iOS-URL-Schemes"]
+	path = iOS-URL-Schemes
+	url = git@github.com:phynet/iOS-URL-Schemes.git
+[submodule "iPwn"]
+	path = iPwn
+	url = git@github.com:brows3r/iPwn.git
+[submodule "TQ-pre-jailbreak"]
+	path = TQ-pre-jailbreak
+	url = git@github.com:pattern-f/TQ-pre-jailbreak.git
+[submodule "RMS-Runtime-Mobile-Security"]
+	path = RMS-Runtime-Mobile-Security
+	url = git@github.com:m0bilesecurity/RMS-Runtime-Mobile-Security.git
+[submodule "iHide"]
+	path = iHide
+	url = git@github.com:Kc57/iHide.git
+[submodule "EggShell"]
+	path = EggShell
+	url = git@github.com:neoneggplant/EggShell.git
+[submodule "xnu_gym"]
+	path = xnu_gym
+	url = https://github.com/tjkr0wn/xnu_gym.git
+[submodule "awesome-frida"]
+	path = awesome-frida
+	url = https://github.com/dweinstein/awesome-frida
+[submodule "bagbak"]
+	path = bagbak
+	url = git@github.com:ChiChou/bagbak.git
+[submodule "OpenJailbreak"]
+	path = OpenJailbreak
+	url = git@github.com:GeoSn0w/OpenJailbreak.git
+[submodule "iOS-Restrictions-Recovery"]
+	path = iOS-Restrictions-Recovery
+	url = git@github.com:alyxferrari/iOS-Restrictions-Recovery.git
+[submodule "iOS-Jailbreak-Development"]
+	path = iOS-Jailbreak-Development
+	url = git@github.com:GeoSn0w/iOS-Jailbreak-Development.git
+[submodule "Fireprint"]
+	path = Fireprint
+	url = git@github.com:sahad-mk/Fireprint.git
+[submodule "iOSRestrictionBruteForce"]
+	path = iOSRestrictionBruteForce
+	url = git@github.com:thehappydinoa/iOSRestrictionBruteForce.git
+[submodule "fd"]
+	path = fd
+	url = git@github.com:a97077088/fd.git
+[submodule "Clutch"]
+	path = Clutch
+	url = https://github.com/KJCracks/Clutch.git
+[submodule "Command-Mobile-Penetration-Testing-Cheatsheet"]
+	path = Command-Mobile-Penetration-Testing-Cheatsheet
+	url = git@github.com:mirfansulaiman/Command-Mobile-Penetration-Testing-Cheatsheet.git
+[submodule "ApplicationScanner"]
+	path = ApplicationScanner
+	url = git@github.com:paradiseduo/ApplicationScanner.git
+[submodule "AppInfoScanner"]
+	path = AppInfoScanner
+	url = git@github.com:kelvinBen/AppInfoScanner.git
+[submodule "jbctl"]
+	path = jbctl
+	url = https://github.com/sbingner/jbctl.git
+[submodule "Taurine"]
+	path = Taurine
+	url = git@github.com:Odyssey-Team/Taurine.git
+[submodule "iOS-Restriction-Key-Cracker"]
+	path = iOS-Restriction-Key-Cracker
+	url = git@github.com:Starwarsfan2099/iOS-Restriction-Key-Cracker.git
+[submodule "iOS-Restrictions-Cracker"]
+	path = iOS-Restrictions-Cracker
+	url = git@github.com:alex-taffe/iOS-Restrictions-Cracker.git
+[submodule "MEDUZA"]
+	path = MEDUZA
+	url = git@github.com:kov4l3nko/MEDUZA.git
+[submodule "dragon"]
+	path = dragon
+	url = git@github.com:DragonBuild/dragon.git
+[submodule "Arcane"]
+	path = Arcane
+	url = git@github.com:tokyoneon/Arcane.git
+[submodule "ios_triage"]
+	path = ios_triage
+	url = git@github.com:RealityNet/ios_triage.git
+[submodule "pongoOS"]
+	path = pongoOS
+	url = git@github.com:checkra1n/pongoOS.git
+[submodule "autodecrypt"]
+	path = autodecrypt
+	url = git@github.com:matteyeux/autodecrypt.git
+[submodule "iBoot64helper"]
+	path = iBoot64helper
+	url = git@github.com:argp/iBoot64helper.git
+[submodule "libirecovery"]
+	path = libirecovery
+	url = git@github.com:libimobiledevice/libirecovery.git
+[submodule "iBoot64Finder"]
+	path = iBoot64Finder
+	url = git@github.com:haiyuidesu/iBoot64Finder.git
+[submodule "ida-iboot-loader"]
+	path = ida-iboot-loader
+	url = git@github.com:matteyeux/ida-iboot-loader.git
+[submodule "piRa1n"]
+	path = piRa1n
+	url = git@github.com:raspberryenvoie/piRa1n.git
+[submodule "PongoHelper"]
+	path = PongoHelper
+	url = git@github.com:NyaMisty/PongoHelper.git
+[submodule "r2clutch"]
+	path = r2clutch
+	url = git@github.com:as0ler/r2clutch.git
+[submodule "appmon"]
+	path = appmon
+	url = git@github.com:dpnishant/appmon.git
+[submodule "pinera1n"]
+	path = pinera1n
+	url = git@github.com:powenn/pinera1n.git
+[submodule "odysseyn1x"]
+	path = odysseyn1x
+	url = git@github.com:raspberryenvoie/odysseyn1x.git
+[submodule "smserver"]
+	path = smserver
+	url = https://github.com/iandwelker/smserver.git
+[submodule "ProxySwitcher"]
+	path = ProxySwitcher
+	url = git@github.com:mikaelbo/ProxySwitcher.git
+[submodule "marisa"]
+	path = marisa
+	url = git@github.com:ExhoAR22/marisa.git
+[submodule "mdm-inhibitor"]
+	path = mdm-inhibitor
+	url = git@github.com:francescomasala/mdm-inhibitor.git

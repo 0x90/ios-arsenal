@@ -235,3 +235,9 @@
 [submodule "ios-analysis"]
 	path = ios-analysis
 	url = https://github.com/IAIK/ios-analysis
+[submodule "CrackBot2"]
+	path = CrackBot2
+	url = https://github.com/n3d1117/CrackBot2
+[submodule "LookinLoader"]
+	path = LookinLoader
+	url = https://github.com/creantan/LookinLoader
